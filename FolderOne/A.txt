@@ -1,1 +1,4 @@
 Some random text
+
+git config --global user.name "Ashley Oliver" 
+git config --global user.email "Ashley.Oliver@cwa.ac.uk" 
